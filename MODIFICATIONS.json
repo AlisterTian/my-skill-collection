@@ -1,0 +1,278 @@
+[
+  {
+    "file": "skills/academic-research-suite/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/academic-research-suite/ars/experiment-agent/docs/plans/2026-05-02-session-resume-implementation.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/academic-research-suite/ars/experiment-agent/templates/study_state.example.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/academic-research-suite/ars/scripts/test_cross_document_consistency_advisory.py",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/adaptyv/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/analytical-method-validation/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/arbor/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/bulk-rnaseq/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/cobrapy/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/cobrapy/references/workflows.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/datalad/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/datalad/references/publishing.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/dnanexus-integration/references/configuration.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/exa-search/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/experimental-design/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/folklore-variant-evidence/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/genomic-coordinates/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/genomic-intelligence/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/geomaster/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/ginkgo-cloud-lab/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/hugging-science/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/iso-standards-readiness/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/lab-hardware-cad/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/literature-review/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-academic-search/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-citation/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-data/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-downloader/tests/unit/generic-package.test.mjs",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/nature-figure/manifest.yaml",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-figure/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-figure/references/backend-selection.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-figure/static/core/contract.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-figure/static/core/stance.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-paper-card/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-paper-to-patent/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-paper2ppt/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-polishing/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-reader/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-response/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-reviewer/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-statistics/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-writing/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-writing/static/core/stance.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nature-writing/static/core/workflow.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/ncats-arax/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nextflow/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/nextflow/references/configuration.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/onekgpd/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/ontology-term-resolution/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/open-notebook/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/optimize-for-gpu/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/pacsomatic/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/paper-lookup/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/paperclip/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/paperclip/references/installation.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/paperclip/references/python-sdk.md",
+    "change": "Replace machine-specific home paths with portable examples."
+  },
+  {
+    "file": "skills/pathogen-variant-surveillance/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/pathway-enrichment/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/pkpd-modeling/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/pyhealth/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/relsa-severity-assessment/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/research-lookup/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/statistical-analysis/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/statistical-power/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/tamarind/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/uncertainty-and-units/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/vaex/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/waypoint-bio/SKILL.md",
+    "change": "Local refinements to discovery descriptions or task workflow."
+  },
+  {
+    "file": "skills/qiskit/references/setup.md",
+    "change": "Use an unmistakable API-key placeholder."
+  }
+]
