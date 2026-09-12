@@ -1,5 +1,7 @@
 # My Skill Collection
 
+**English** | [简体中文](README.zh-CN.md)
+
 The research skills I use with AI coding and research assistants: literature discovery, paper writing and review, scientific figures, statistics, bioinformatics, molecular modeling, and laboratory workflows.
 
 This repository shares **170 workflow skills and one shared support package** from my manually installed collection. It preserves local refinements and upstream attribution. Built-in assistant skills and bundled application plugins are not included.
@@ -38,7 +40,7 @@ Use scanpy to analyze this single-cell dataset and explain the QC decisions.
 
 Skill names can differ from folder names: `researchwrite` lives in `skills/nature-proposal-writer`. The `nature-shared` directory is a dependency, not a standalone workflow.
 
-The repository introduction and catalog are in English. Individual skill instructions retain their original English or Chinese content so established workflows and examples remain usable.
+The repository introduction is available in English and Simplified Chinese; the full catalog is in English. Individual skill instructions retain their original English or Chinese content so established workflows and examples remain usable.
 
 ## What this repository contains
 
